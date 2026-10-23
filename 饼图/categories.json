@@ -1,0 +1,123 @@
+[
+  {
+    "name": "Development",
+    "value": 21,
+    "children": [
+      "gedit",
+      "Bash",
+      "Conky",
+      "Ubuntu Terminal",
+      "FreeCAD",
+      "Spyder",
+      "Arduino IDE",
+      "Qt Creator",
+      "Code::Blocks",
+      "Komodo Edit",
+      "KDevelop",
+      "Bluefish",
+      "Geany",
+      "Brackets",
+      "IntelliJ IDEA",
+      "PyCharm",
+      "NetBeans",
+      "Eclipse",
+      "FreeCAD",
+      "Atom",
+      "VSCode"
+    ]
+  },
+  {
+    "name": "Browsers",
+    "value": 4,
+    "children": [
+      "DuckDuckGo",
+      "Firefox",
+      "Chromium",
+      "Brave"
+    ]
+  },
+  {
+    "name": "Education",
+    "value": 8,
+    "children": [
+      "Mendeley",
+      "OpenBoard",
+      "QGIS",
+      "Audacity",
+      "Calibre",
+      "GrassGIS",
+      "Zotero",
+      "Anki"
+    ]
+  },
+  {
+    "name": "Entertainment",
+    "value": 8,
+    "children": [
+      "Emby",
+      "Matrix",
+      "Lemmy",
+      "Mastodon",
+      "Signal",
+      "Element",
+      "Kodi",
+      "VLC MPlayer"
+    ]
+  },
+  {
+    "name": "Creativity",
+    "value": 16,
+    "children": [
+      "WordPress",
+      "OpenToonz",
+      "Natron",
+      "Shotcut",
+      "Lightworks",
+      "OBS Studio",
+      "OpenShot",
+      "Flowblade",
+      "Scribus",
+      "MuseScore",
+      "FontForge",
+      "darktable",
+      "Krita",
+      "Inkscape",
+      "GIMP",
+      "Blender"
+    ]
+  },
+  {
+    "name": "Productivity",
+    "value": 28,
+    "children": [
+      "Nemo",
+      "Flameshot",
+      "Jitsi",
+      "Metabase",
+      "Bitwarden",
+      "GnuCash",
+      "7-Zip",
+      "Wekan",
+      "Cryptomator",
+      "Simplenote",
+      "Gnumeric",
+      "Nextcloud",
+      "OnlyOfc Xlsx",
+      "OnlyOfc Pptx",
+      "OnlyOfc Forms",
+      "OnlyOfc Editor",
+      "OnlyOfc Cal",
+      "OnlyOfc Forms",
+      "PDFedit",
+      "Zulip",
+      "Affine",
+      "OpenProject",
+      "Joplin",
+      "draw.io",
+      "LibreOfc Writer",
+      "LibreOfc Impress",
+      "LibreOfc Draw",
+      "LibreOfc Calc"
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Functional Errors",
+    "value": 59
+  },
+  {
+    "name": "Name Errors",
+    "value": 9
+  },
+  {
+    "name": "Type Errors",
+    "value": 9
+  },
+  {
+    "name": "Syntax Errors",
+    "value": 8
+  },
+  {
+    "name": "Import Errors",
+    "value": 7
+  },
+  {
+    "name": "Attribute Errors",
+    "value": 6
+  },
+  {
+    "name": "Index/Key Errors",
+    "value": 2
+  }
+]
